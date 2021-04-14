@@ -1,0 +1,32 @@
+{
+  "name": "compression_code_fime",
+  "version": "1.0.0",
+  "description": "pia teoría de la información y métodos de codificación",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gerardogaravito/compression_code_FIME.git"
+  },
+  "keywords": [
+    "compression",
+    "pia"
+  ],
+  "author": "Gerardo Garavito <garavitogerardo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gerardogaravito/compression_code_FIME/issues"
+  },
+  "homepage": "https://github.com/gerardogaravito/compression_code_FIME#readme",
+  "dependencies": {
+    "next": "^10.1.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "styled-components": "^5.2.3"
+  }
+}
