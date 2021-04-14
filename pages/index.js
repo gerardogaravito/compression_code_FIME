@@ -1,9 +1,15 @@
 import React from 'react';
 
+import { Header } from '@components/Header';
+import { Description } from '@components/Description';
+
 const Home = () => {
 
   return(
-    <h1>Compression Code</h1>
+    <React.Fragment>
+      <Header />
+      <Description />
+    </React.Fragment>
   )
 }
 
